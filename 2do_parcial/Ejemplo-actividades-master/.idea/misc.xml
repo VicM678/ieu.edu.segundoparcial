@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Andoid/2do_parcial/Ejemplo-actividades-master/app/src/main/res/layout/activity_suma.xml" value="0.2957427536231884" />
+        <entry key="..\:/Android/projectsDS03/EjemploActividades/app/src/main/res/layout/activity_raiz.xml" value="0.2759259259259259" />
+        <entry key="..\:/Android/projectsDS03/EjemploActividades/app/src/main/res/layout/activity_suma.xml" value="0.3380208333333333" />
+        <entry key="..\:/Android/projectsDS03/EjemploActividades/app/src/main/res/layout/layout_ejemplo.xml" value="0.15104166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
